@@ -7,5 +7,6 @@ Dummy HTTP server for testing
 Run it with [superstatic](https://www.npmjs.com/package/superstatic)
 
 ```bash
-npx run superstatic
+# http://localhost:1234/
+npx run superstatic . --port 1234
 ```
