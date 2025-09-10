@@ -7,4 +7,3 @@ jobs:
     with:
       name: cloud-cli/dummy
       baseImage: cloud-cli/node:latest
-      defaultBranch: main
